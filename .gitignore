@@ -134,3 +134,5 @@ dmypy.json
 data/examples/*
 !data/examples/README.md
 !data/examples/fetch_data.sh
+
+course_prep
