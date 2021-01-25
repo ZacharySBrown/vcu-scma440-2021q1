@@ -135,4 +135,8 @@ data/examples/*
 !data/examples/README.md
 !data/examples/fetch_data.sh
 
+# Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 course_prep
