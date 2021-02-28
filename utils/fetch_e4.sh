@@ -12,3 +12,6 @@ curl https://vcu-scma-440.s3.amazonaws.com/data/airline_series.csv > airline_ser
 
 # Can Openers
 curl https://vcu-scma-440.s3.amazonaws.com/data/can_openers.csv > can_openers.csv
+
+# Quarterly Sales
+curl https://vcu-scma-440.s3.amazonaws.com/data/quarterly_sales.csv > quarterly_sales.csv
